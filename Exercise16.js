@@ -19,4 +19,4 @@ function fibonacciGenerator(n){
       return output;  
     }
 
-    console.log(fibonacciGenerator(7));
+    console.log(fibonacciGenerator(3));
